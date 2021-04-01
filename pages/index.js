@@ -5,5 +5,10 @@ export default function Home() {
       <Head>
         <title>Hello World!</title>
       </Head>
+      <main>
+        <h1>
+          Hello world
+        </h1>
+      </main>
       </>
 }
